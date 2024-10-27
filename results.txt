@@ -1,0 +1,136 @@
+Pattern 1:
+pattern 1 creating 18 Thread
+thread in child: 25465
+Thread 1 (pid 25465, tid 123145317826560) beginning
+Thread 1 (pid 25465, tid 123145317826560), seconds 4 sleeping
+thread in child: 25465
+Thread 3 (pid 25465, tid 123145318899712) beginning
+Thread 3 (pid 25465, tid 123145318899712), seconds 7 sleeping
+thread in child: 25465
+Thread 2 (pid 25465, tid 123145318363136) beginning
+Thread 2 (pid 25465, tid 123145318363136), seconds 4 sleeping
+thread in child: 25465
+Thread 5 (pid 25465, tid 123145319972864) beginning
+Thread 5 (pid 25465, tid 123145319972864), seconds 5 sleeping
+thread in child: 25465
+Thread 6 (pid 25465, tid 123145320509440) beginning
+Thread 6 (pid 25465, tid 123145320509440), seconds 2 sleeping
+thread in child: 25465
+Thread 4 (pid 25465, tid 123145319436288) beginning
+Thread 4 (pid 25465, tid 123145319436288), seconds 8 sleeping
+thread in child: 25465
+thread in child: 25465
+Thread 8 (pid 25465, tid 123145321582592) beginning
+Thread 8 (pid 25465, tid 123145321582592), seconds 1 sleeping
+Thread 7 (pid 25465, tid 123145321046016) beginning
+Thread 7 (pid 25465, tid 123145321046016), seconds 7 sleeping
+thread in child: 25465
+Thread 9 (pid 25465, tid 123145322119168) beginning
+Thread 9 (pid 25465, tid 123145322119168), seconds 6 sleeping
+thread in child: 25465
+Thread 10 (pid 25465, tid 123145322655744) beginning
+Thread 10 (pid 25465, tid 123145322655744), seconds 6 sleeping
+thread in child: 25465
+Thread 11 (pid 25465, tid 123145323192320) beginning
+Thread 11 (pid 25465, tid 123145323192320), seconds 4 sleeping
+thread in child: 25465
+Thread 12 (pid 25465, tid 123145323728896) beginning
+Thread 12 (pid 25465, tid 123145323728896), seconds 4 sleeping
+thread in child: 25465
+Thread 13 (pid 25465, tid 123145324265472) beginning
+Thread 13 (pid 25465, tid 123145324265472), seconds 8 sleeping
+thread in child: 25465
+Thread 14 (pid 25465, tid 123145324802048) beginning
+Thread 14 (pid 25465, tid 123145324802048), seconds 3 sleeping
+thread in child: 25465
+Thread 15 (pid 25465, tid 123145325338624) beginning
+Thread 15 (pid 25465, tid 123145325338624), seconds 1 sleeping
+thread in child: 25465
+Thread 16 (pid 25465, tid 123145325875200) beginning
+Thread 16 (pid 25465, tid 123145325875200), seconds 7 sleeping
+thread in child: 25465
+Thread 17 (pid 25465, tid 123145326411776) beginning
+Thread 17 (pid 25465, tid 123145326411776), seconds 6 sleeping
+thread in child: 25465
+Thread 18 (pid 25465, tid 123145326948352) beginning
+Thread 18 (pid 25465, tid 123145326948352), seconds 3 sleeping
+pattern one: Thread: 8 (pid 25465, tid 123145321582592): exiting
+pattern one: Thread: 15 (pid 25465, tid 123145325338624): exiting
+pattern one: Thread: 6 (pid 25465, tid 123145320509440): exiting
+pattern one: Thread: 18 (pid 25465, tid 123145326948352): exiting
+pattern one: Thread: 14 (pid 25465, tid 123145324802048): exiting
+pattern one: Thread: 1 (pid 25465, tid 123145317826560): exiting
+pattern one: Thread: 11 (pid 25465, tid 123145323192320): exiting
+pattern one: Thread: 12 (pid 25465, tid 123145323728896): exiting
+pattern one: Thread: 2 (pid 25465, tid 123145318363136): exiting
+pattern one: Thread: 5 (pid 25465, tid 123145319972864): exiting
+pattern one: Thread: 9 (pid 25465, tid 123145322119168): exiting
+pattern one: Thread: 17 (pid 25465, tid 123145326411776): exiting
+pattern one: Thread: 10 (pid 25465, tid 123145322655744): exiting
+pattern one: Thread: 3 (pid 25465, tid 123145318899712): exiting
+pattern one: Thread: 16 (pid 25465, tid 123145325875200): exiting
+pattern one: Thread: 7 (pid 25465, tid 123145321046016): exiting
+pattern one: Thread: 13 (pid 25465, tid 123145324265472): exiting
+pattern one: Thread: 4 (pid 25465, tid 123145319436288): exiting
+** Pattern 1: all children have exited
+
+Pattern 2:
+**Pattern 2: creating 19 Thread
+Thread 19 (pid 25477, tid 123145324507136) beginning
+Thread 19 (pid 25477, tid 123145324507136), seconds 4 sleeping
+Thread 18 (pid 25477, tid 123145325043712) beginning
+Thread 18 (pid 25477, tid 123145325043712), seconds 8 sleeping
+Thread 17 (pid 25477, tid 123145325580288) beginning
+Thread 17 (pid 25477, tid 123145325580288), seconds 2 sleeping
+Thread 16 (pid 25477, tid 123145326116864) beginning
+Thread 16 (pid 25477, tid 123145326116864), seconds 8 sleeping
+Thread 15 (pid 25477, tid 123145326653440) beginning
+Thread 15 (pid 25477, tid 123145326653440), seconds 6 sleeping
+Thread 14 (pid 25477, tid 123145327190016) beginning
+Thread 14 (pid 25477, tid 123145327190016), seconds 1 sleeping
+Thread 13 (pid 25477, tid 123145327726592) beginning
+Thread 13 (pid 25477, tid 123145327726592), seconds 1 sleeping
+Thread 12 (pid 25477, tid 123145328263168) beginning
+Thread 12 (pid 25477, tid 123145328263168), seconds 4 sleeping
+Thread 11 (pid 25477, tid 123145328799744) beginning
+Thread 11 (pid 25477, tid 123145328799744), seconds 3 sleeping
+Thread 10 (pid 25477, tid 123145329336320) beginning
+Thread 10 (pid 25477, tid 123145329336320), seconds 5 sleeping
+Thread 9 (pid 25477, tid 123145329872896) beginning
+Thread 9 (pid 25477, tid 123145329872896), seconds 7 sleeping
+Thread 8 (pid 25477, tid 123145330409472) beginning
+Thread 8 (pid 25477, tid 123145330409472), seconds 8 sleeping
+Thread 7 (pid 25477, tid 123145330946048) beginning
+Thread 7 (pid 25477, tid 123145330946048), seconds 7 sleeping
+Thread 6 (pid 25477, tid 123145331482624) beginning
+Thread 6 (pid 25477, tid 123145331482624), seconds 3 sleeping
+Thread 5 (pid 25477, tid 123145332019200) beginning
+Thread 5 (pid 25477, tid 123145332019200), seconds 1 sleeping
+Thread 4 (pid 25477, tid 123145332555776) beginning
+Thread 4 (pid 25477, tid 123145332555776), seconds 3 sleeping
+Thread 3 (pid 25477, tid 123145333092352) beginning
+Thread 3 (pid 25477, tid 123145333092352), seconds 3 sleeping
+Thread 2 (pid 25477, tid 123145333628928) beginning
+Thread 2 (pid 25477, tid 123145333628928), seconds 3 sleeping
+Thread 1 (pid 25477, tid 123145334165504) beginning
+Thread 1 (pid 25477, tid 123145334165504), seconds 5 sleeping
+pattern two: Thread: 1 (pid 25477, tid 123145334165504): exiting
+pattern two: Thread: 2 (pid 25477, tid 123145333628928): exiting
+pattern two: Thread: 3 (pid 25477, tid 123145333092352): exiting
+pattern two: Thread: 4 (pid 25477, tid 123145332555776): exiting
+pattern two: Thread: 5 (pid 25477, tid 123145332019200): exiting
+pattern two: Thread: 6 (pid 25477, tid 123145331482624): exiting
+pattern two: Thread: 7 (pid 25477, tid 123145330946048): exiting
+pattern two: Thread: 8 (pid 25477, tid 123145330409472): exiting
+pattern two: Thread: 9 (pid 25477, tid 123145329872896): exiting
+pattern two: Thread: 10 (pid 25477, tid 123145329336320): exiting
+pattern two: Thread: 11 (pid 25477, tid 123145328799744): exiting
+pattern two: Thread: 12 (pid 25477, tid 123145328263168): exiting
+pattern two: Thread: 13 (pid 25477, tid 123145327726592): exiting
+pattern two: Thread: 14 (pid 25477, tid 123145327190016): exiting
+pattern two: Thread: 15 (pid 25477, tid 123145326653440): exiting
+pattern two: Thread: 16 (pid 25477, tid 123145326116864): exiting
+pattern two: Thread: 17 (pid 25477, tid 123145325580288): exiting
+pattern two: Thread: 18 (pid 25477, tid 123145325043712): exiting
+pattern two: Thread: 19 (pid 25477, tid 123145324507136): exiting
+** Pattern 2: All children have exited
